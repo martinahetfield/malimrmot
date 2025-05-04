@@ -1,0 +1,13 @@
+index.html
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8">
+  <title>ConstructZona</title>
+</head>
+<body>
+  <h1>Mesto gde radovi počinju</h1>
+<h2>Baza majstora</h2>
+  <p>Ovo je moj prvi sajt preko Vercela 😊</p>
+</body>
+</html>
